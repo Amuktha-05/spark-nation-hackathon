@@ -1,27 +1,35 @@
-# F - Financials and Sponsorship
+# Financials and Sponsorship
 
-## 🎯 Objective
-Ensure sufficient funding for the hackathon through sponsorships and cost optimization.
+Purpose
+-------
+To secure necessary funding and manage the event budget with transparency and record-keeping.
 
-## 🧩 Strategy
-- Prepare sponsorship proposal decks  
-- Approach companies, startups, and alumni for support  
-- Track expenses and ensure budget alignment  
+Budget planning
+---------------
+- Identify fixed and variable costs (venue, equipment, food, prizes, marketing).  
+- Maintain a budget spreadsheet with actual vs planned columns and a running cash balance.  
+- Track all receipts and invoices.
 
-## 🛠️ Deliverables
-- Detailed budget spreadsheet  
-- Sponsor proposal PDF  
-- Expense tracker  
-- Sponsor follow-up email templates  
+Sponsorship strategy
+--------------------
+- Prepare a sponsor proposal deck with sponsorship tiers and benefits.  
+- Identify prospective sponsors (local companies, alumni, startups).  
+- Use a sponsor contact tracker and follow-up schedule.
 
-## 📊 KPIs
-| Metric | Target |
-|---------|--------|
-| Sponsorship amount | ₹50,000+ |
-| Sponsors onboarded | ≥5 |
-| Budget variance | ≤5% |
+Financial controls
+------------------
+- Define approval process for expenditures.  
+- Use a treasurer to reconcile payments and receipts.  
+- Keep copies of contracts and correspondence in `/assets/sponsors/`.
 
-## 👥 Team Members
-- Finance Lead  
-- Sponsor Relations Coordinator  
-- Treasurer
+Metrics
+-------
+- Total sponsorship confirmed.  
+- Number of sponsors onboarded.  
+- Budget variance and remaining contingency.
+
+Roles
+-----
+- Finance Lead: budget ownership and sponsor negotiations.  
+- Treasurer: payments, receipts and reconciliation.  
+- Sponsor Relations: outreach and relationship management.

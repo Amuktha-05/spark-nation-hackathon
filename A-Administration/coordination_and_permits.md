@@ -1,28 +1,33 @@
-# A - Administration and Coordination
+# Administration and Coordination
 
-## 🎯 Objective
-Oversee overall coordination, permissions, scheduling, and communication for Spark Nation Hackathon.
+Purpose
+-------
+To manage the administrative processes required to run Spark Nation, including permits, scheduling and volunteer coordination.
 
-## 🧩 Strategy
-- Create detailed event schedule and checklist  
-- Coordinate between all M.A.F.I.A teams  
-- Obtain venue and institutional permissions  
-- Prepare backup and emergency plans  
+Permits and approvals
+---------------------
+- Identify institutional permissions required (venue usage, on-campus approvals).  
+- Prepare and submit permission letters in the required format with adequate lead time.  
+- Maintain copies of all approvals and correspondence.
 
-## 🛠️ Deliverables
-- Event schedule & timeline  
-- Permission letters and approvals  
-- Volunteer allocation sheet  
-- Feedback & report templates  
+Event schedule and timeline
+---------------------------
+- Prepare a master timeline showing milestone dates (D-30, D-15, D-7, D-1) and task owners.  
+- Prepare a minute-by-minute event schedule for the day of the hackathon including setup and teardown windows.
 
-## 📊 KPIs
-| Metric | Target |
-|---------|--------|
-| Event start delay | ≤10 minutes |
-| Tasks completed on time | ≥95% |
-| Feedback score | ≥90% satisfaction |
+Volunteer management
+--------------------
+- Maintain a volunteer roster with roles and contact details.  
+- Define shift schedules and backup volunteers for critical roles.  
+- Provide a volunteer briefing document and a contact escalation chart.
 
-## 👥 Team Members
-- Admin Lead  
-- Volunteer Manager  
-- Faculty Coordinator
+Communication and documentation
+-------------------------------
+- Maintain an incident log and a decisions log.  
+- Prepare the post-event report and feedback analysis.
+
+Roles
+-----
+- Admin Lead: overall administrative ownership.  
+- Volunteer Manager: volunteer scheduling and briefings.  
+- Faculty Coordinator: liaise with institutional stakeholders.

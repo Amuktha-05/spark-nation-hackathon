@@ -1,85 +1,79 @@
-# spark-nation-hackathon
-Official documentation and planning repository for Spark Nation Hackathon, organized under the M.A.F.I.A framework.
+# Spark Nation Hackathon 2025
 
+This repository contains the planning and execution documentation for the Spark Nation Hackathon. The repository follows a framework named M.A.F.I.A to structure responsibilities and deliverables.
 
-# ⚡ Spark Nation Hackathon 2025
+## M.A.F.I.A Framework
 
-Welcome to the **official planning and documentation repository** for **Spark Nation**, our club’s flagship hackathon event.
+| Code | Category      | Description |
+|------|---------------|-------------|
+| M    | Media         | Public relations, social media campaigns, publicity and outreach |
+| A    | Audience      | Participant outreach, registrations and engagement |
+| F    | Financials    | Budgeting, sponsorships and fund management |
+| I    | Infrastructure| Venue, logistics, technical setup and participant incentives |
+| A    | Administration| Permits, scheduling, volunteer coordination and overall administration |
 
-This repository follows the **M.A.F.I.A Framework** to organize planning, execution, and coordination efficiently.
+## Objectives
 
----
+1. Provide a well-managed platform for participants to build and demonstrate technical projects.  
+2. Encourage collaboration and learning within the community.  
+3. Execute the event with minimal operational failures and high participant satisfaction.
 
-## 🧩 M.A.F.I.A Framework
-
-| Code | Category | Description |
-|------|-----------|--------------|
-| **M** | **Media** | Public relations, social media campaigns, and publicity efforts |
-| **A** | **Audience** | Target engagement, participant outreach, and community building |
-| **F** | **Financials** | Budgeting, sponsorships, and fund management |
-| **I** | **Infrastructure** | Venue setup, logistics, technical needs, and incentives |
-| **A** | **Administration** | Event flow, approvals, communication, and overall coordination |
-
----
-
-## 🎯 Objectives
-
-- Promote creativity, innovation, and collaboration among participants  
-- Build a strong technical and problem-solving community  
-- Execute a smooth, well-managed hackathon experience  
-
----
-
-## 📦 Deliverables
+## Deliverables
 
 - Media and publicity plan  
 - Sponsorship proposals and financial tracker  
-- Participant registration and engagement analytics  
+- Registration and participant engagement analytics  
 - Venue and logistics checklist  
-- Administrative coordination documents  
+- Administrative documentation and schedules
 
----
+## Key Performance Indicators (KPIs)
 
-## 📊 KPIs (Key Performance Indicators)
+| Category      | KPI                   | Target |
+|---------------|-----------------------|--------|
+| Media         | Combined social reach | 15,000+ views |
+| Audience      | Registrations         | 200+ participants |
+| Financials    | Sponsorship revenue   | ₹50,000+ |
+| Infrastructure | Setup readiness       | Complete by D-1 |
+| Administration| Schedule adherence     | ≥95% on-time execution |
 
-| Category | KPI | Target |
-|-----------|-----|--------|
-| **Media** | Social media reach | 15,000+ views |
-| **Audience** | Registrations | 200+ participants |
-| **Financials** | Sponsorships secured | ₹50,000+ |
-| **Infrastructure** | Setup readiness | 100% before event day |
-| **Administration** | Schedule adherence | ≥95% on-time completion |
+## Team and Roles
 
----
+- President: overall oversight and approvals  
+- Media Lead: publicity and social media management  
+- Audience Lead: registration and participant communications  
+- Finance Lead: budget and sponsor relations  
+- Infrastructure Lead: venue and technical setup  
+- Admin Lead: schedule, permissions and volunteer coordination
 
-## 👥 Team Roles
+## Project Management
 
-| Role | Member | Responsibility |
-|------|---------|----------------|
-| President | — | Oversight and approvals |
-| Media Lead | — | Promotions & social engagement |
-| Audience Lead | — | Registration & participant relations |
-| Finance Lead | — | Budget & sponsor management |
-| Infrastructure Lead | — | Venue & logistics setup |
-| Admin Lead | — | Schedule, permissions & communication |
+Use the GitHub Projects board and Issues to track tasks and progress. Suggested board columns:
+- To Do
+- In Progress
+- Done
 
----
+## Collaboration workflow
 
-## 🗂 Project Management on GitHub
-
-We use the **GitHub Projects** board to track progress:
-
-- 🧠 **To Do** — tasks yet to begin  
-- 🔧 **In Progress** — ongoing work  
-- ✅ **Done** — completed deliverables  
-
-Each task (issue) can be assigned, labeled, and linked to a MAFIA category.
-
----
-
-## ⚙️ Collaboration Setup
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/<username>/spark-nation-hackathon.git
+1. Clone repository:
+git clone https://github.com/
+<username>/spark-nation-hackathon.git
 cd spark-nation-hackathon
+
+2. Create a branch for your work:
+
+git checkout -b <your-branch-name>
+
+3. Make changes, commit, and push:
+
+git add .
+git commit -m "Describe the change"
+git push origin <your-branch-name>
+
+4. Open a Pull Request for review and merge into `main` after approval.
+
+## Contribution guidelines
+
+- Use Markdown (`.md`) for documentation.  
+- Keep commit messages concise and descriptive.  
+- Use branches for nontrivial changes.  
+- Use Issues and Pull Requests to discuss larger updates.

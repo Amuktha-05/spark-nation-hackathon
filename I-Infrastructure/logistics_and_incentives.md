@@ -1,27 +1,36 @@
-# I - Infrastructure and Incentives
+# Infrastructure and Logistics
 
-## 🎯 Objective
-Provide the best possible venue setup, logistics, and technical support to all participants.
+Purpose
+-------
+To ensure the event venue, technical needs and participant facilities are correctly planned and executed.
 
-## 🧩 Strategy
-- Book suitable venue with power, internet, and seating  
-- Arrange projector, mic systems, and signage  
-- Organize food, refreshments, and swag kits  
+Venue and technical checklist
+-----------------------------
+- Confirm venue booking with date and time slots.  
+- Verify seating capacity, power outlets and table layout.  
+- Confirm reliable internet access and backup connectivity.  
+- Arrange microphone, projector, screens and extension leads.
 
-## 🛠️ Deliverables
-- Venue booking confirmation  
-- Equipment and setup checklist  
-- Refreshment plan  
-- Volunteer duty list  
+On-site operations
+------------------
+- Mark entry and exit points and signage.  
+- Set up registration desk with printed lists and barcode/QR check-in if applicable.  
+- Coordinate volunteer duties for setup, technical support and runner tasks.  
+- Plan food, refreshments and any dietary considerations.
 
-## 📊 KPIs
-| Metric | Target |
-|---------|--------|
-| Setup readiness | D-1 complete |
-| Equipment failures | 0 |
-| Participant comfort | 90%+ satisfaction |
+Participant incentives
+----------------------
+- Prepare swag kits or certificates.  
+- Allocate prizes and communicate criteria publicly.
 
-## 👥 Team Members
-- Infrastructure Lead  
-- Tech Setup Coordinator  
-- Logistics Volunteer
+Risk and contingency
+--------------------
+- Prepare an incident response plan (medical, technical, fire).  
+- Keep spare equipment and contact lists for vendors and venue.
+
+Roles
+-----
+- Infrastructure Lead: venue, vendor liaison and on-site supervision.  
+- Tech Coordinator: network and AV.  
+- Logistics Volunteer: setup and teardown.
+

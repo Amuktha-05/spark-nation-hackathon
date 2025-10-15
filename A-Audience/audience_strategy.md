@@ -1,26 +1,37 @@
-# A - Audience Strategy
+# Audience Strategy
 
-## 🎯 Objective
-Engage and attract potential participants and maintain interaction before, during, and after the hackathon.
+Purpose
+-------
+To attract the right participants for Spark Nation and maintain engagement before, during, and after the hackathon.
 
-## 🧩 Strategy
-- Use student networks, alumni groups, and social media
-- Create registration drives and contests
-- Send newsletters and reminders
+Audience segments
+-----------------
+- Undergraduate and graduate students in engineering, design and business.  
+- Alumni and hobbyist developers.  
+- Local startup and developer communities.
 
-## 🛠️ Deliverables
-- Participant registration form  
-- Outreach content (emails, posters, messages)  
-- Engagement campaigns  
+Outreach plan
+-------------
+- Launch registration page and primary announcement.  
+- Email campaigns to student lists and alumni groups.  
+- Social media contests and referral incentives.  
+- Partnerships with student clubs and relevant departments.
 
-## 📊 KPIs
-| Metric | Target |
-|---------|--------|
-| Total registrations | 200+ |
-| Attendance rate | ≥80% |
-| Participant retention | ≥70% |
+Registration and retention
+--------------------------
+- Use a reliable registration form that captures essential information (team, skills, contact).  
+- Send confirmation and reminder emails.  
+- Provide a pre-event orientation document.  
+- Maintain an active communication channel (Discord/WhatsApp) for participants.
 
-## 👥 Team Members
-- Audience Lead  
-- Registration Coordinator  
-- Communications Volunteer
+Metrics
+-------
+- Registration count.  
+- Turnout rate.  
+- Engagement metrics in community channels (messages, participation in pre-event activities).
+
+Roles
+-----
+- Audience Lead: campaign coordination and registrations.  
+- Registration Coordinator: form management and data export.  
+- Community Manager: channel moderation and participant support.
